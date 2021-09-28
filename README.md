@@ -2,7 +2,7 @@
 - 👀 I’m interested in - CP
 - 🌱 I’m currently learning at - Studies.
 - 💞️ I’m looking to collaborate on - I'm not looking.
-- 📫 How to reach me - Sell you cannot.
+- 📫 How to reach me - Well you cannot.
 
 <!---
 Szelwiga/Szelwiga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
