@@ -13,7 +13,7 @@ Hi, my name is Marcel Szelwiga.
 * XIVLO - static website which covers topic for my students (```html```)
 * mess - simple chat made for studies course (```node```, ```js```, ```html```)
 
-```AWARDS``` Competitive programming Achievements: 
+```AWARDS``` Competitive programming achievements: 
 * Central European Regional Contest (CERC) | `15th place out of 56`
 * Polish Collegiate Programming Contest (AMPPZ) | `bronze medal, 9th place out of 50`
 * Polish Programming Championships for High School Students | `bronze medal, 3rd place (two times)`
