@@ -11,6 +11,7 @@ Hi, my name is Marcel Szelwiga.
 * Bashdio - terminal styled audio player on local website (```js```, ```html```)
 * Galactica - game login screen with randomly generated pixelart space background (```js```)
 * XIVLO - static website which covers topic for my students (```html```)
+* mess - simple chat made for studies course (```node```, ```js```, ```html```)
 
 ```AWARDS``` Competitive programming Achievements: 
 * Central European Regional Contest (CERC) | `15th place out of 56`
