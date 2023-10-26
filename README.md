@@ -1,4 +1,5 @@
-##### Hi, my name is Marcel Szelwiga.
+Hi, my name is Marcel Szelwiga.
+
 ```ABOUT``` Some facts about me:
 * I’m currently studying computer science (engineer's degree) at University of Wrocław.
 * I started coding when I was 14 years old, and I was focused mainly on Competitive programming.
@@ -19,6 +20,7 @@
 
 ```TODO``` List of things i would like to code in near future:
 * Online website for Stormy (under development)
+* Stormy API documentation
 * Pixel art game engine
 
 Email: `szelwigamarcel[at]gmail[dot]com`
