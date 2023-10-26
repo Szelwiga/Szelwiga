@@ -11,7 +11,7 @@
 * Galactica - game login screen with randomly generated pixelart space background (```js```)
 * XIVLO - static website which covers topic for my students (```html```)
 
-```AWARDS``` Competitive programming awards 
+```AWARDS``` Competitive programming Achievements: 
 * Central European Regional Contest (CERC) | `15th place out of 56`
 * Polish Collegiate Programming Contest (AMPPZ) | `bronze medal, 9th place out of 50`
 * Polish Programming Championships for High School Students | `bronze medal, 3rd place (two times)`
