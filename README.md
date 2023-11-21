@@ -12,7 +12,7 @@ Hi, my name is Marcel Szelwiga.
 * Preparing programming contest from technical side (mainly ```ansible```, ```Linux```)
 * Good (i hope) knowledge in ```Linux``` sysadmin field
 * Ability to give lectures in field of Data Structures and Algorithms
-* Preparing programming task packages
+* Preparing programming problems packages
 
   
 ```DONE``` Projects:
